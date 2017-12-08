@@ -1,0 +1,33 @@
+h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 22px;
+  text-shadow: 2px 2px #c1d9ff;
+}
+
+h2 {
+  color: #adadad;
+  font-weight: bold;
+ }
+
+ header img {
+   margin-top: 18px;
+ }
+
+p {
+  font-weight: bold;
+}
+
+hr {
+  height: 3px;
+  background-color: #a8aaad;
+}
